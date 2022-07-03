@@ -1,7 +1,7 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import { FinalAccordin } from "../Accordin/FinalAccordin"
-import { Professional_Certificates } from "../Certificates/Professional_Certificate"
+import React from "react";
+import ReactDOM from "react-dom";
+import { FinalAccordin } from "../Accordin/FinalAccordin";
+import { Professional_Certificates } from "../Certificates/Professional_Certificate";
 import { Explore_Carrer } from "../Explore_Carrers"
 import Complete_Find_A_Carrer from "../Find_A_Carrer/Complete_Find_A_Carrer"
 import { Finish_Professional_Certificate } from "../Finish_Professional_Certificate/Finish_Professional_Certificate"
